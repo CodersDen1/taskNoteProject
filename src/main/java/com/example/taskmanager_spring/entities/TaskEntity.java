@@ -4,6 +4,7 @@ package com.example.taskmanager_spring.entities;
 import lombok.*;
 
 import java.util.Date;
+import java.util.List;
 
 
 @Data
